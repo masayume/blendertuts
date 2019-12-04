@@ -11,6 +11,6 @@
 
 ## Toon shading
 * [Blender NPR](https://docs.google.com/presentation/d/1kaXR4RwxuZ-ih4_psfkdepg20incjeZyln4faOvWR_g/) 	
-* [TOON Shading Tutorial for Blender 2.8 with Commentary](https://www.youtube.com/watch?v=kriKwtzZWFg() 								
-* [TOON Daily Blender Tip 301 -Basic Toon Shader in Eevee - Blender 2.8](https://www.youtube.com/watch?v=eq6ucGCBGRs() 								
-* [TOON 2.8 Eevee Toon Shader Workflow Tutorial](https://www.youtube.com/watch?v=iSzNZW0Q2HE() 								
+* [TOON Shading Tutorial for Blender 2.8 with Commentary](https://www.youtube.com/watch?v=kriKwtzZWFg) 								
+* [TOON Daily Blender Tip 301 -Basic Toon Shader in Eevee - Blender 2.8](https://www.youtube.com/watch?v=eq6ucGCBGRs) 								
+* [TOON 2.8 Eevee Toon Shader Workflow Tutorial](https://www.youtube.com/watch?v=iSzNZW0Q2HE) 								
