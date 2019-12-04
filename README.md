@@ -54,3 +54,5 @@
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
 
+## Animation
+* [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
