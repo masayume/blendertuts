@@ -14,9 +14,9 @@
 * [ADDONS TOP 5 Blender Addons to speed up your workflow](https://www.youtube.com/watch?v=FMJoIp0qvTU)
 
 # Tools & Tips
-* [TOOLS 	2.8 edit normals for anime heads (Normal tool series)](https://www.youtube.com/watch?v=O8qhWTpPOw4
-* [TIPS 	Top Tips in Blender 2.8 You Probably Didn't Know](https://www.youtube.com/watch?v=EO-ikIsVdIo
-* [TIPS 	Make Cities with Blender](https://www.youtube.com/watch?v=JjnyapZ_P-g
+* [TOOLS 	2.8 edit normals for anime heads (Normal tool series)](https://www.youtube.com/watch?v=O8qhWTpPOw4)
+* [TIPS 	Top Tips in Blender 2.8 You Probably Didn't Know](https://www.youtube.com/watch?v=EO-ikIsVdIo)
+* [TIPS 	Make Cities with Blender](https://www.youtube.com/watch?v=JjnyapZ_P-g)
 
 ## Modeling
 * [MODELING in blender 2.8 for complete beginners](https://www.youtube.com/playlist?list=PLvPwLecDlWRD_VK_2INC1VQ18dZdpDwLi)
@@ -29,6 +29,10 @@
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
 
+## Texturing
+* [TEXTURE The Node Concept #15 - Noise and Voronoi texture](https://www.youtube.com/watch?v=KmvaCxnjj8A)
+* [TEXTURE Making Image Seamless with Blender](https://vimeo.com/24370271)
+
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
 * [RENDERING The Cycles Input Encyclopedia](https://www.blenderguru.com/articles/cycles-input-encyclopedia)
@@ -38,6 +42,7 @@
 * [TOON Shading Tutorial for Blender 2.8 with Commentary](https://www.youtube.com/watch?v=kriKwtzZWFg) 								
 * [TOON Daily Blender Tip 301 -Basic Toon Shader in Eevee - Blender 2.8](https://www.youtube.com/watch?v=eq6ucGCBGRs) 								
 * [TOON 2.8 Eevee Toon Shader Workflow Tutorial](https://www.youtube.com/watch?v=iSzNZW0Q2HE) 								
+* [SKETCH STYLE Blender 2.8 add-on for SketchUp like renders](https://www.youtube.com/watch?v=TCrbNmY4nAw)
 
 ## FX
 * [FX Animated Rain and Splash Effects | Blender 2.8](https://www.youtube.com/watch?v=35bbyAJodEQ)
@@ -49,6 +54,3 @@
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
 
-## Texturing
-* [TEXTURE The Node Concept #15 - Noise and Voronoi texture](https://www.youtube.com/watch?v=KmvaCxnjj8A)
-* [TEXTURE Making Image Seamless with Blender](https://vimeo.com/24370271)
