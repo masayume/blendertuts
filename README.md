@@ -43,6 +43,7 @@
 * [TOON Daily Blender Tip 301 -Basic Toon Shader in Eevee - Blender 2.8](https://www.youtube.com/watch?v=eq6ucGCBGRs) 								
 * [TOON 2.8 Eevee Toon Shader Workflow Tutorial](https://www.youtube.com/watch?v=iSzNZW0Q2HE) 								
 * [SKETCH STYLE Blender 2.8 add-on for SketchUp like renders](https://www.youtube.com/watch?v=TCrbNmY4nAw)
+* [Normals](https://blendernpr.org/lets-talk-about-normals/)
 
 ## FX
 * [FX Animated Rain and Splash Effects | Blender 2.8](https://www.youtube.com/watch?v=35bbyAJodEQ)
