@@ -8,6 +8,7 @@
 * [GENERAL BLENDER 2.8](https://www.youtube.com/playlist?list=PLjEaoINr3zgH1JI7FtPX_Q9OGFhP-HCUV)
 * [Creating a Nature Scene in Blender](https://www.youtube.com/watch?v=GvaGPX5Dyyw)
 * [CONCEPT Tips for Concepting in Blender 2.8](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
+* [2.8 Megatutorial Living Room Part 1](https://www.youtube.com/watch?v=mZGNqylpVeo)
 
 # Add-ons
 * [ADDONS more for Blender 2.81](https://www.youtube.com/watch?v=k109JhyFPjg)
@@ -24,14 +25,21 @@
 * [MODELING Low Poly Vehicles | Easy Beginner | Blender 2.8 Tutorial](https://www.youtube.com/watch?v=Zkg7Ol2jEjs)								
 * [MODELING Blender 2 8 Modeling Timelapse || Creating Buzz Lightyear](https://www.youtube.com/watch?v=RygQKTI_m5c)								
 * [MODELING Making Of, a Bruce Lee portrait (3D character)](https://www.youtube.com/watch?v=58GHhuI9j3I) 								
-* [MODELING Mouth In Blender - Real Time Tutorial](https://www.youtube.com/watch?v=O4LBTC8MHG4) 								
+* [MODELING Mouth In Blender - Real Time Tutorial](https://www.youtube.com/watch?v=O4LBTC8MHG4)
+* [MODELING Hard-surface 2.8 Update](https://www.youtube.com/watch?v=16f4RwxP9n0&list=PL2aDImegRwZHQsA5_N4DpaOQmUXaIsBdN)
+* [MODELING BEVEL FEATURE IN 2.82](https://www.youtube.com/watch?v=VpLHRP93Wf0)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
+* [Topology In Six Minutes](https://www.youtube.com/watch?v=HGL6QpVRyXk)
+* [MESH data Transfer ADDON](https://www.youtube.com/watch?v=CvMeK_IIw-Y)
 
 ## Texturing
 * [TEXTURE The Node Concept #15 - Noise and Voronoi texture](https://www.youtube.com/watch?v=KmvaCxnjj8A)
 * [TEXTURE Making Image Seamless with Blender](https://vimeo.com/24370271)
+* [2.82 UDIM WORKFLOW WITH SUBSTANCE PAINTER](https://www.youtube.com/watch?v=d_OHMnurNGY)
+* [Texturing with Stencils | Blender 2.81](https://www.youtube.com/watch?v=lO8qDNZf5o0)
+* [Texturing Made Easy in Blender 2.80](https://www.youtube.com/watch?v=yV09duoEvfM)
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
@@ -44,6 +52,14 @@
 * [TOON 2.8 Eevee Toon Shader Workflow Tutorial](https://www.youtube.com/watch?v=iSzNZW0Q2HE) 								
 * [SKETCH STYLE Blender 2.8 add-on for SketchUp like renders](https://www.youtube.com/watch?v=TCrbNmY4nAw)
 * [Normals](https://blendernpr.org/lets-talk-about-normals/)
+* [Anime Stylized Light in Blender 2.8](https://www.youtube.com/watch?v=C3d6ocJNefI)
+
+## ANIMATION
+* [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
+* [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
+
+## Rigging
+* [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
 
 ## FX
 * [FX Animated Rain and Splash Effects | Blender 2.8](https://www.youtube.com/watch?v=35bbyAJodEQ)
@@ -51,9 +67,5 @@
 * [FX procedural dirt](https://www.youtube.com/watch?v=MAecwsiu1xk)
 * [FX 2.81 - How to work with UDIMS](https://www.youtube.com/watch?v=fuldUVJ-FBU)
 * [FX 2.8 template glitcher](https://gumroad.com/l/alBOt)
-
-## Rigging
-* [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
-
-## Animation
-* [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
+* [FX 2.8 Interactive Generator Beam Effect](https://www.youtube.com/watch?v=s34dYNw8if8)
+* [FX 2.8 Real-Time Dynamic Snow Effects](https://www.youtube.com/watch?v=YFVsfYCMJGE)
