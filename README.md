@@ -58,6 +58,8 @@
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
 * [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
+* [Polygon Material Index node for Animation Nodes](https://www.youtube.com/watch?v=hCBqMeKcETg)
+* [Blender 2 81 Insect walk cycle](https://www.youtube.com/watch?v=99sjz0-GWKU)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
