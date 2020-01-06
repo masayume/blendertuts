@@ -86,3 +86,4 @@
 * [FX 2.8 template glitcher](https://gumroad.com/l/alBOt)
 * [FX 2.8 Interactive Generator Beam Effect](https://www.youtube.com/watch?v=s34dYNw8if8)
 * [FX 2.8 Real-Time Dynamic Snow Effects](https://www.youtube.com/watch?v=YFVsfYCMJGE)
+* [FX Neon Sign Lazy Tutorial](https://www.youtube.com/watch?v=l46YDEUVSwk)
