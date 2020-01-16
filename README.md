@@ -18,6 +18,7 @@
 * [ADDONS TOP 5 Blender Addons to speed up your workflow](https://www.youtube.com/watch?v=FMJoIp0qvTU)
 * [ADDONS Free Object Scatter Addon](https://www.youtube.com/watch?v=3tyaACdP2Wo)
 * [Neltulz Symmetry - Quickly Slice, Cut, or Mirror](https://www.blendernation.com/2019/12/29/neltulz-symmetry-quickly-slice-cut-or-mirror-any-mesh-object)
+* [10 essential architectural design addons 2.81+](https://www.youtube.com/watch?v=uTLddu8c-U4)
 
 # Resources
 * [MMD to Blender 2.8x motion file VMD (RigidBodies setup)](https://www.youtube.com/watch?v=wtEUZtJSTKE)
@@ -37,9 +38,12 @@
 * [MODELING Hard-surface 2.8 Update](https://www.youtube.com/watch?v=16f4RwxP9n0&list=PL2aDImegRwZHQsA5_N4DpaOQmUXaIsBdN)
 * [MODELING BEVEL FEATURE IN 2.82](https://www.youtube.com/watch?v=VpLHRP93Wf0)
 * [Blender 2.82 Hardsurface Sculpting with Booleans](https://www.youtube.com/watch?v=sZupACq3g-k)
+* [NITROX3D: Non Destructive Radial Symmetrical Objects](https://www.youtube.com/watch?v=o0Dmb_44yzc)
+* [Space Station Generator for 2.8](https://www.youtube.com/watch?v=hqUXYaNe8hU)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
+* [Loop Tools Addon | Important Mesh Editing Tool 2.8](https://www.youtube.com/watch?v=W2MjvKy1yCo)
 * [Topology In Six Minutes](https://www.youtube.com/watch?v=HGL6QpVRyXk)
 * [MESH data Transfer ADDON](https://www.youtube.com/watch?v=CvMeK_IIw-Y)
 * [Microdisplacement](https://www.youtube.com/watch?v=dRzzaRvVDng)
@@ -52,12 +56,15 @@
 * [Texturing with Stencils | Blender 2.81](https://www.youtube.com/watch?v=lO8qDNZf5o0)
 * [Texturing Made Easy in Blender 2.80](https://www.youtube.com/watch?v=yV09duoEvfM)
 * [Skin Texturing and Shading tutorial](https://www.youtube.com/watch?v=Ryi_pYqcavs)
+* [Professional Texturing Made Easy in 2.80](https://www.youtube.com/watch?v=yV09duoEvfM)
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
 * [RENDERING The Cycles Input Encyclopedia](https://www.blenderguru.com/articles/cycles-input-encyclopedia)
 * [Proper Color correction](https://www.youtube.com/watch?v=KpwrNXiDGfM&list=PLuOrh6Z3pUgswbtN_D_O0rc8ZQ9cipgcY)
 * [2.8 Creating an Atmospheric Environment in Cycles](https://www.youtube.com/watch?v=8_6yGabwfYU)
+* [EEVEE Rendering TIPS(+ Free Demo)](https://www.youtube.com/watch?v=hIkcaJE-iDY)
+* [How I Reduced EEVEE Render Times By 85% (2.81)](https://www.youtube.com/watch?v=oo6ZmMyU5nM)
 
 ## Toon shading
 * [Blender NPR](https://docs.google.com/presentation/d/1kaXR4RwxuZ-ih4_psfkdepg20incjeZyln4faOvWR_g/) 	
@@ -67,6 +74,7 @@
 * [SKETCH STYLE Blender 2.8 add-on for SketchUp like renders](https://www.youtube.com/watch?v=TCrbNmY4nAw)
 * [Normals](https://blendernpr.org/lets-talk-about-normals/)
 * [Anime Stylized Light in Blender 2.8](https://www.youtube.com/watch?v=C3d6ocJNefI)
+* [Guilty Gear Stylized shader in Blender's EEVEE](https://www.youtube.com/watch?v=6FmFJgcJZZ0)
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
@@ -77,6 +85,9 @@
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
 * [IK Leg Rig](https://www.youtube.com/watch?v=suP14lYWpN8)
+
+## Camera
+* [Animate Handheld Cameras in Blender](https://www.youtube.com/watch?v=w9EUFud9zGE)
 
 ## FX
 * [FX Animated Rain and Splash Effects | Blender 2.8](https://www.youtube.com/watch?v=35bbyAJodEQ)
