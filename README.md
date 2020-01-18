@@ -1,6 +1,7 @@
 ## A list of Blender 2.8 tutorials, by argument
 
 ## Fundamentals & General
+* [7 KEY MISTAKES Blender Beginners Make](https://www.youtube.com/watch?v=zQVr9qyM00w)
 * [BLENDER 2.8 FUNDAMENTALS official playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 * [BLENDER 2.8 beginners complete guide](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
 * [GENERAL Best way to learn Blender 2.8](https://www.youtube.com/watch?v=mdcs8uf7UOs)
@@ -14,6 +15,7 @@
 * [Character Animation Tutorial: Model and Rig a Cute Robot](https://www.youtube.com/watch?v=ufvM2ixj2FI)
 
 # Add-ons
+* [ADDONS track](https://www.youtube.com/watch?v=h_UyrP70uCo)
 * [ADDONS more for Blender 2.81](https://www.youtube.com/watch?v=k109JhyFPjg)
 * [ADDONS TOP 5 Blender Addons to speed up your workflow](https://www.youtube.com/watch?v=FMJoIp0qvTU)
 * [ADDONS Free Object Scatter Addon](https://www.youtube.com/watch?v=3tyaACdP2Wo)
@@ -21,12 +23,15 @@
 * [10 essential architectural design addons 2.81+](https://www.youtube.com/watch?v=uTLddu8c-U4)
 
 # Resources
+* [300,000 Free 3D Models](https://sketchfab.com/blogs/community/300000-free-3d-models-available-on-sketchfab/)
 * [MMD to Blender 2.8x motion file VMD (RigidBodies setup)](https://www.youtube.com/watch?v=wtEUZtJSTKE)
 
 # Tools & Tips
+* [Selection](https://www.youtube.com/watch?v=L1ALsDaXg9M)
 * [TOOLS 	2.8 edit normals for anime heads (Normal tool series)](https://www.youtube.com/watch?v=O8qhWTpPOw4)
 * [TIPS 	Top Tips in Blender 2.8 You Probably Didn't Know](https://www.youtube.com/watch?v=EO-ikIsVdIo)
 * [TIPS 	Make Cities with Blender](https://www.youtube.com/watch?v=JjnyapZ_P-g)
+* [Array Modifier](https://www.youtube.com/watch?v=KM9wty__kyY)
 
 ## Modeling
 * [MODELING in blender 2.8 for complete beginners](https://www.youtube.com/playlist?list=PLvPwLecDlWRD_VK_2INC1VQ18dZdpDwLi)
@@ -50,6 +55,7 @@
 * [Blender Hard Surface Retopology & Substance Painter](https://www.youtube.com/watch?v=wKmH9D1NYAE)
 
 ## Texturing
+* [Getting Started - Blender Procedural Nodes](https://www.youtube.com/watch?v=Q53LOCFVp70)
 * [TEXTURE The Node Concept #15 - Noise and Voronoi texture](https://www.youtube.com/watch?v=KmvaCxnjj8A)
 * [TEXTURE Making Image Seamless with Blender](https://vimeo.com/24370271)
 * [2.82 UDIM WORKFLOW WITH SUBSTANCE PAINTER](https://www.youtube.com/watch?v=d_OHMnurNGY)
@@ -65,6 +71,7 @@
 * [2.8 Creating an Atmospheric Environment in Cycles](https://www.youtube.com/watch?v=8_6yGabwfYU)
 * [EEVEE Rendering TIPS(+ Free Demo)](https://www.youtube.com/watch?v=hIkcaJE-iDY)
 * [How I Reduced EEVEE Render Times By 85% (2.81)](https://www.youtube.com/watch?v=oo6ZmMyU5nM)
+* [Realistic Lighting](https://www.youtube.com/watch?v=VJ2SAx6tZKM)
 
 ## Toon shading
 * [Blender NPR](https://docs.google.com/presentation/d/1kaXR4RwxuZ-ih4_psfkdepg20incjeZyln4faOvWR_g/) 	
@@ -78,6 +85,7 @@
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
+* [Ultra Satisfying Animations | Easy](https://www.youtube.com/watch?v=Uq4OLSRgSQE)
 * [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
 * [Polygon Material Index node for Animation Nodes](https://www.youtube.com/watch?v=hCBqMeKcETg)
 * [Blender 2 81 Insect walk cycle](https://www.youtube.com/watch?v=99sjz0-GWKU)
