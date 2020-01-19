@@ -45,6 +45,7 @@
 * [Blender 2.82 Hardsurface Sculpting with Booleans](https://www.youtube.com/watch?v=sZupACq3g-k)
 * [NITROX3D: Non Destructive Radial Symmetrical Objects](https://www.youtube.com/watch?v=o0Dmb_44yzc)
 * [Space Station Generator for 2.8](https://www.youtube.com/watch?v=hqUXYaNe8hU)
+* [Stylized Character Workflow with Blender 2.81](https://www.youtube.com/watch?v=f-mx-Jfx9lA)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
@@ -89,6 +90,7 @@
 * [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
 * [Polygon Material Index node for Animation Nodes](https://www.youtube.com/watch?v=hCBqMeKcETg)
 * [Blender 2 81 Insect walk cycle](https://www.youtube.com/watch?v=99sjz0-GWKU)
+* [Floating Splines with Animation Nodes](https://www.youtube.com/watch?v=xf_XKpp7EIg)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
