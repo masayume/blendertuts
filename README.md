@@ -64,6 +64,10 @@
 * [Texturing Made Easy in Blender 2.80](https://www.youtube.com/watch?v=yV09duoEvfM)
 * [Skin Texturing and Shading tutorial](https://www.youtube.com/watch?v=Ryi_pYqcavs)
 * [Professional Texturing Made Easy in 2.80](https://www.youtube.com/watch?v=yV09duoEvfM)
+* [TEXTURE 2.8 Seamless equalized texture conversion tutorial](https://www.youtube.com/watch?v=6Iael8b1oZU)
+* [De-Lighter - texturing tool from Agisoft called](https://www.gamefromscratch.com/post/2019/07/09/De-LIghter-Free-Texturing-Tool-By-Agisoft.aspx)
+* [2.8 Albedo Maps](https://www.youtube.com/watch?v=dX-LvaB36yk)
+* [2.8 PBR Texture Painting: Roughness](https://www.youtube.com/watch?v=VKVbXrzO9RI)
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
@@ -91,6 +95,8 @@
 * [Polygon Material Index node for Animation Nodes](https://www.youtube.com/watch?v=hCBqMeKcETg)
 * [Blender 2 81 Insect walk cycle](https://www.youtube.com/watch?v=99sjz0-GWKU)
 * [Floating Splines with Animation Nodes](https://www.youtube.com/watch?v=xf_XKpp7EIg)
+* [Super Satisfying Animations in Blender Eevee and Cycles](https://www.youtube.com/watch?v=icMn25j2yy0)
+* [Procedural Scratches](https://www.youtube.com/watch?v=e4BhdrFDHkQ)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
