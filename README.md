@@ -31,6 +31,7 @@
 * [Blender 2.81 - 5 steps you should do before export | polishing geometry](https://www.youtube.com/watch?v=Eiq6A7cAWT4)
 * [300,000 Free 3D Models](https://sketchfab.com/blogs/community/300000-free-3d-models-available-on-sketchfab/)
 * [MMD to Blender 2.8x motion file VMD (RigidBodies setup)](https://www.youtube.com/watch?v=wtEUZtJSTKE)
+* [Blender 2.81 importing CAD/STL files look better](https://www.youtube.com/watch?v=RyaMXlLCqn4)
 
 # Tools & Tips
 * [Selection](https://www.youtube.com/watch?v=L1ALsDaXg9M)
@@ -52,6 +53,8 @@
 * [NITROX3D: Non Destructive Radial Symmetrical Objects](https://www.youtube.com/watch?v=o0Dmb_44yzc)
 * [Space Station Generator for 2.8](https://www.youtube.com/watch?v=hqUXYaNe8hU)
 * [Stylized Character Workflow with Blender 2.81](https://www.youtube.com/watch?v=f-mx-Jfx9lA)
+* [modeling Greek architecture](https://www.youtube.com/watch?v=AAQLgpGhS8A)
+* [Weld modifier](https://www.youtube.com/watch?v=UFZ5yRrqvtE)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
@@ -75,6 +78,8 @@
 * [De-Lighter - texturing tool from Agisoft called](https://www.gamefromscratch.com/post/2019/07/09/De-LIghter-Free-Texturing-Tool-By-Agisoft.aspx)
 * [2.8 Albedo Maps](https://www.youtube.com/watch?v=dX-LvaB36yk)
 * [2.8 PBR Texture Painting: Roughness](https://www.youtube.com/watch?v=VKVbXrzO9RI)
+* [Procedural Noise textures](https://www.youtube.com/watch?v=rsqPI_EQ2Ms)
+* [Advanced Plastic Shader](https://www.youtube.com/watch?v=MbEfx6B8Mj0)
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
@@ -95,6 +100,7 @@
 * [Anime Stylized Light in Blender 2.8](https://www.youtube.com/watch?v=C3d6ocJNefI)
 * [Guilty Gear Stylized shader in Blender's EEVEE](https://www.youtube.com/watch?v=6FmFJgcJZZ0)
 * [How to Make a Toon Shader - Part 1](https://www.youtube.com/watch?v=TpWI2rU8iF0)
+* [free manga shader](https://www.youtube.com/watch?v=88KgNWk2KBs)
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
@@ -106,6 +112,7 @@
 * [Super Satisfying Animations in Blender Eevee and Cycles](https://www.youtube.com/watch?v=icMn25j2yy0)
 * [Procedural Scratches](https://www.youtube.com/watch?v=e4BhdrFDHkQ)
 * [Particle City Serie](https://www.youtube.com/watch?v=APHWd08X_mk)
+* [2.8x Mograph Tutorial - DNA Transformation Effects](https://www.youtube.com/watch?v=vkOgSzYC_Ug)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
@@ -113,6 +120,7 @@
 
 ## Camera
 * [Animate Handheld Cameras in Blender](https://www.youtube.com/watch?v=w9EUFud9zGE)
+* [Blender 2.8 - How to control the camera like a boss](ww.youtube.com/watch?v=GTUwmTunjtM)
 
 ## FX
 * [FX Animated Rain and Splash Effects | Blender 2.8](https://www.youtube.com/watch?v=35bbyAJodEQ)
@@ -124,6 +132,7 @@
 * [FX 2.8 Real-Time Dynamic Snow Effects](https://www.youtube.com/watch?v=YFVsfYCMJGE)
 * [FX Neon Sign Lazy Tutorial](https://www.youtube.com/watch?v=l46YDEUVSwk)
 * [FX light flicker Sneakers](https://www.youtube.com/playlist?list=PLoGhuFDN7nEGDg6fSGX6ts-KnS0BGGJ-6)
+* [Blender 2.8x with EEVEE Retro-futuristic wireframe transition effect](https://www.youtube.com/watch?v=VmWH4LRnB58)
 
 ## SCRIPTING
 * [An Introduction to Scripting [Python - bpy]](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
