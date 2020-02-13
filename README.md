@@ -11,6 +11,7 @@
 * [CONCEPT Tips for Concepting in Blender 2.8](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
 * [2.8 Megatutorial Living Room Part 1](https://www.youtube.com/watch?v=mZGNqylpVeo)
 * [Blender Tutorial Channels 2020](https://www.youtube.com/watch?v=vwvq9T-Mtt8)
+* [Top Shortcut Keys](https://www.youtube.com/watch?v=--kN_4sUqj8)
 
 ## Projects
 * [Character Animation Tutorial: Model and Rig a Cute Robot](https://www.youtube.com/watch?v=ufvM2ixj2FI)
@@ -23,8 +24,11 @@
 * [Neltulz Symmetry - Quickly Slice, Cut, or Mirror](https://www.blendernation.com/2019/12/29/neltulz-symmetry-quickly-slice-cut-or-mirror-any-mesh-object)
 * [10 essential architectural design addons 2.81+](https://www.youtube.com/watch?v=uTLddu8c-U4)
 * [ADDONS chain tools](https://www.youtube.com/watch?v=HLxDMKUypQw)
+* [Blender 2.8 Loop Tools Addon | Important Mesh Editing Tool](https://www.youtube.com/watch?v=W2MjvKy1yCo)
+* [Blender 2.8 Bevel Curves with Fast Carve Addon](https://www.youtube.com/watch?v=UPKkmIYi2tA)
 
 # Resources
+* [Blender 2.81 - 5 steps you should do before export | polishing geometry](https://www.youtube.com/watch?v=Eiq6A7cAWT4)
 * [300,000 Free 3D Models](https://sketchfab.com/blogs/community/300000-free-3d-models-available-on-sketchfab/)
 * [MMD to Blender 2.8x motion file VMD (RigidBodies setup)](https://www.youtube.com/watch?v=wtEUZtJSTKE)
 
@@ -56,6 +60,7 @@
 * [MESH data Transfer ADDON](https://www.youtube.com/watch?v=CvMeK_IIw-Y)
 * [Microdisplacement](https://www.youtube.com/watch?v=dRzzaRvVDng)
 * [Blender Hard Surface Retopology & Substance Painter](https://www.youtube.com/watch?v=wKmH9D1NYAE)
+* [Blender 2.81 | The New Remeshing Tools](https://www.youtube.com/watch?v=iZM9JZBmCxI)
 
 ## Texturing
 * [Getting Started - Blender Procedural Nodes](https://www.youtube.com/watch?v=Q53LOCFVp70)
@@ -89,6 +94,7 @@
 * [Normals](https://blendernpr.org/lets-talk-about-normals/)
 * [Anime Stylized Light in Blender 2.8](https://www.youtube.com/watch?v=C3d6ocJNefI)
 * [Guilty Gear Stylized shader in Blender's EEVEE](https://www.youtube.com/watch?v=6FmFJgcJZZ0)
+* [How to Make a Toon Shader - Part 1](https://www.youtube.com/watch?v=TpWI2rU8iF0)
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
@@ -99,6 +105,7 @@
 * [Floating Splines with Animation Nodes](https://www.youtube.com/watch?v=xf_XKpp7EIg)
 * [Super Satisfying Animations in Blender Eevee and Cycles](https://www.youtube.com/watch?v=icMn25j2yy0)
 * [Procedural Scratches](https://www.youtube.com/watch?v=e4BhdrFDHkQ)
+* [Particle City Serie](https://www.youtube.com/watch?v=APHWd08X_mk)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
