@@ -10,6 +10,7 @@
 * [Creating a Nature Scene in Blender](https://www.youtube.com/watch?v=GvaGPX5Dyyw)
 * [CONCEPT Tips for Concepting in Blender 2.8](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
 * [2.8 Megatutorial Living Room Part 1](https://www.youtube.com/watch?v=mZGNqylpVeo)
+* [Blender Tutorial Channels 2020](https://www.youtube.com/watch?v=vwvq9T-Mtt8)
 
 ## Projects
 * [Character Animation Tutorial: Model and Rig a Cute Robot](https://www.youtube.com/watch?v=ufvM2ixj2FI)
@@ -21,6 +22,7 @@
 * [ADDONS Free Object Scatter Addon](https://www.youtube.com/watch?v=3tyaACdP2Wo)
 * [Neltulz Symmetry - Quickly Slice, Cut, or Mirror](https://www.blendernation.com/2019/12/29/neltulz-symmetry-quickly-slice-cut-or-mirror-any-mesh-object)
 * [10 essential architectural design addons 2.81+](https://www.youtube.com/watch?v=uTLddu8c-U4)
+* [ADDONS chain tools](https://www.youtube.com/watch?v=HLxDMKUypQw)
 
 # Resources
 * [300,000 Free 3D Models](https://sketchfab.com/blogs/community/300000-free-3d-models-available-on-sketchfab/)
@@ -114,3 +116,8 @@
 * [FX 2.8 Interactive Generator Beam Effect](https://www.youtube.com/watch?v=s34dYNw8if8)
 * [FX 2.8 Real-Time Dynamic Snow Effects](https://www.youtube.com/watch?v=YFVsfYCMJGE)
 * [FX Neon Sign Lazy Tutorial](https://www.youtube.com/watch?v=l46YDEUVSwk)
+* [FX light flicker Sneakers](https://www.youtube.com/playlist?list=PLoGhuFDN7nEGDg6fSGX6ts-KnS0BGGJ-6)
+
+## SCRIPTING
+* [An Introduction to Scripting [Python - bpy]](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
+
