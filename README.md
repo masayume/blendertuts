@@ -8,13 +8,14 @@
 * [GENERAL Where everything is in Blender 2.8](https://www.youtube.com/watch?v=VtUQNMV50Hc)
 * [GENERAL BLENDER 2.8](https://www.youtube.com/playlist?list=PLjEaoINr3zgH1JI7FtPX_Q9OGFhP-HCUV)
 * [Creating a Nature Scene in Blender](https://www.youtube.com/watch?v=GvaGPX5Dyyw)
-* [CONCEPT Tips for Concepting in Blender 2.8](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
 * [2.8 Megatutorial Living Room Part 1](https://www.youtube.com/watch?v=mZGNqylpVeo)
 * [Blender Tutorial Channels 2020](https://www.youtube.com/watch?v=vwvq9T-Mtt8)
 * [Top Shortcut Keys](https://www.youtube.com/watch?v=--kN_4sUqj8)
+* [Blender POster][https://www.giudansky.com/illustration/infographics/blender-map]
 
-## Projects
+## Projects & Workflow
 * [Character Animation Tutorial: Model and Rig a Cute Robot](https://www.youtube.com/watch?v=ufvM2ixj2FI)
+* [Behind the Scenes: Animated Comic with Grease Pencil][https://www.blendernation.com/2020/02/26/behind-the-scenes-animated-comic-with-grease-pencil]
 
 # Add-ons
 * [ADDONS track](https://www.youtube.com/watch?v=h_UyrP70uCo)
@@ -26,6 +27,7 @@
 * [ADDONS chain tools](https://www.youtube.com/watch?v=HLxDMKUypQw)
 * [Blender 2.8 Loop Tools Addon | Important Mesh Editing Tool](https://www.youtube.com/watch?v=W2MjvKy1yCo)
 * [Blender 2.8 Bevel Curves with Fast Carve Addon](https://www.youtube.com/watch?v=UPKkmIYi2tA)
+* [Python Blender 2.8 Tutorial: Creating the Text Tool Add-on- bpy][https://www.youtube.com/watch?v=4KwPhQX63SQ&feature=emb_title]
 
 # Resources
 * [Blender 2.81 - 5 steps you should do before export | polishing geometry](https://www.youtube.com/watch?v=Eiq6A7cAWT4)
@@ -39,6 +41,10 @@
 * [TIPS 	Top Tips in Blender 2.8 You Probably Didn't Know](https://www.youtube.com/watch?v=EO-ikIsVdIo)
 * [TIPS 	Make Cities with Blender](https://www.youtube.com/watch?v=JjnyapZ_P-g)
 * [Array Modifier](https://www.youtube.com/watch?v=KM9wty__kyY)
+* [CONCEPT Tips for Concepting in Blender 2.8](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
+* [Daily Blender Secrets - Connected Proportional Editing][https://www.youtube.com/watch?v=rZ-2n-8vRD0&feature=emb_title]
+* [Daily Blender Secrets - Toon Outline with Inverted Hull (updated)][https://www.youtube.com/watch?v=913lbud30xc&feature=emb_title]
+* [Easy Air Pressure Balloon Tutorial | Blender][https://www.youtube.com/watch?v=hYZgsH0NeC4&feature=emb_title]
 
 ## Modeling
 * [MODELING in blender 2.8 for complete beginners](https://www.youtube.com/playlist?list=PLvPwLecDlWRD_VK_2INC1VQ18dZdpDwLi)
@@ -55,6 +61,8 @@
 * [Stylized Character Workflow with Blender 2.81](https://www.youtube.com/watch?v=f-mx-Jfx9lA)
 * [modeling Greek architecture](https://www.youtube.com/watch?v=AAQLgpGhS8A)
 * [Weld modifier](https://www.youtube.com/watch?v=UFZ5yRrqvtE)
+* [How to work with the Bool Tool | Blender 2.82 - free Addon | Tutorial][https://www.youtube.com/watch?v=T7oU39ROzTk]
+* [Blender 2.82 - Create Simple Stylised Steam][https://www.youtube.com/watch?v=Ke9Ru6g6H7Q]
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
@@ -65,7 +73,7 @@
 * [Blender Hard Surface Retopology & Substance Painter](https://www.youtube.com/watch?v=wKmH9D1NYAE)
 * [Blender 2.81 | The New Remeshing Tools](https://www.youtube.com/watch?v=iZM9JZBmCxI)
 
-## Texturing
+## Materials & Texturing
 * [Getting Started - Blender Procedural Nodes](https://www.youtube.com/watch?v=Q53LOCFVp70)
 * [TEXTURE The Node Concept #15 - Noise and Voronoi texture](https://www.youtube.com/watch?v=KmvaCxnjj8A)
 * [TEXTURE Making Image Seamless with Blender](https://vimeo.com/24370271)
@@ -80,6 +88,8 @@
 * [2.8 PBR Texture Painting: Roughness](https://www.youtube.com/watch?v=VKVbXrzO9RI)
 * [Procedural Noise textures](https://www.youtube.com/watch?v=rsqPI_EQ2Ms)
 * [Advanced Plastic Shader](https://www.youtube.com/watch?v=MbEfx6B8Mj0)
+* [Blender: Make your own halftone shader!][https://www.youtube.com/watch?v=Go8ivK00Y-A]
+* [Blender 2.81 / 2.82 How to Make a Metal Material][https://www.youtube.com/watch?v=wxuDRtrS_YI]
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
@@ -89,8 +99,9 @@
 * [EEVEE Rendering TIPS(+ Free Demo)](https://www.youtube.com/watch?v=hIkcaJE-iDY)
 * [How I Reduced EEVEE Render Times By 85% (2.81)](https://www.youtube.com/watch?v=oo6ZmMyU5nM)
 * [Realistic Lighting](https://www.youtube.com/watch?v=VJ2SAx6tZKM)
+* [Part 1: Intro to Octane for Blender 2.8][https://www.youtube.com/watch?v=LyvoLHzNdks&feature=emb_title]
 
-## Toon shading
+## NPR & Toon shading
 * [Blender NPR](https://docs.google.com/presentation/d/1kaXR4RwxuZ-ih4_psfkdepg20incjeZyln4faOvWR_g/) 	
 * [TOON Shading Tutorial for Blender 2.8 with Commentary](https://www.youtube.com/watch?v=kriKwtzZWFg) 								
 * [TOON Daily Blender Tip 301 -Basic Toon Shader in Eevee - Blender 2.8](https://www.youtube.com/watch?v=eq6ucGCBGRs) 								
@@ -101,6 +112,9 @@
 * [Guilty Gear Stylized shader in Blender's EEVEE](https://www.youtube.com/watch?v=6FmFJgcJZZ0)
 * [How to Make a Toon Shader - Part 1](https://www.youtube.com/watch?v=TpWI2rU8iF0)
 * [free manga shader](https://www.youtube.com/watch?v=88KgNWk2KBs)
+* [Stylized Character Render Secrets][https://www.youtube.com/watch?v=3_rCg5LCRp0]
+* [The BNPR Show #2: Modeling for Style][https://www.youtube.com/watch?v=7NaRi37b9sQ]
+* [Blender 2.8 - Outline by Normal (Clean outlines for NPR)][https://www.youtube.com/watch?v=ybkdUW9enbk]
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
@@ -113,6 +127,7 @@
 * [Procedural Scratches](https://www.youtube.com/watch?v=e4BhdrFDHkQ)
 * [Particle City Serie](https://www.youtube.com/watch?v=APHWd08X_mk)
 * [2.8x Mograph Tutorial - DNA Transformation Effects](https://www.youtube.com/watch?v=vkOgSzYC_Ug)
+* [Mixing 2D & 3D Animation in Blender][https://80.lv/articles/mixing-2d-3d-animation-in-blender]
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
@@ -134,6 +149,8 @@
 * [FX light flicker Sneakers](https://www.youtube.com/playlist?list=PLoGhuFDN7nEGDg6fSGX6ts-KnS0BGGJ-6)
 * [Blender 2.8x with EEVEE Retro-futuristic wireframe transition effect](https://www.youtube.com/watch?v=VmWH4LRnB58)
 
-## SCRIPTING
+## Modular & Scripting
 * [An Introduction to Scripting [Python - bpy]](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
+* [How to create modular roads in Blender 2.8][https://www.youtube.com/watch?v=sRbQfGl00HE]
+* [Collection Instance Blender 2.8][https://www.youtube.com/watch?v=Id9IzLV7IDg]
 
