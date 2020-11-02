@@ -1,6 +1,7 @@
 ## A list of Blender 2.8 tutorials, by argument
 
 ## Fundamentals & General
+* [2.9 The BEST Places to Learn Blender](https://www.youtube.com/watch?v=-cfz7CQqDVs)
 * [7 KEY MISTAKES Blender Beginners Make](https://www.youtube.com/watch?v=zQVr9qyM00w)
 * [2.8 FUNDAMENTALS official playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 * [2.8 beginners complete guide](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
@@ -25,6 +26,8 @@
 * [DAZ Model Importer (Blender Add-on) Part 1/2](https://www.youtube.com/watch?v=s9PvR43kTuo)
 
 # Add-ons
+* [NLA - ACTIONS clips DEMYSTIFIED (2020) Export to Unity](https://www.youtube.com/watch?v=-SQdHehksJw&feature=emb_title)
+* [7 Blender add-ons that come preinstalled you should probably enable](https://www.youtube.com/watch?v=kk6oelvJtV0)
 * [ADDONS track](https://www.youtube.com/watch?v=h_UyrP70uCo)
 * [2.81 - ADDONS more for Blender](https://www.youtube.com/watch?v=k109JhyFPjg)
 * [ADDONS TOP 5 Blender Addons to speed up your workflow](https://www.youtube.com/watch?v=FMJoIp0qvTU)
@@ -34,7 +37,7 @@
 * [ADDONS chain tools](https://www.youtube.com/watch?v=HLxDMKUypQw)
 * [2.8 Loop Tools Addon | Important Mesh Editing Tool](https://www.youtube.com/watch?v=W2MjvKy1yCo)
 * [2.8 Bevel Curves with Fast Carve Addon](https://www.youtube.com/watch?v=UPKkmIYi2tA)
-* [2.8 - Python: Creating the Text Tool Add-on- bpy](https://www.youtube.com/watch?v=4KwPhQX63SQ&feature=emb_title)
+* [2.8 - Python: Creating the Text Tool Add-on- bpy](https://www.youtube.com/watch?v=4KwPhQX63SQ)
 * [Daily Blender Secrets - Abnormal add-on](https://www.youtube.com/watch?v=SXtDITRFnA8)
 * [2.8x - Gravity Rope FOR Blender Addon](https://www.youtube.com/watch?v=9xbfbSY1OOk)
 * [2.8x - Painterly Shader for Blender ](https://www.youtube.com/watch?v=cByqTrPb4Hk)
@@ -44,27 +47,39 @@
 * [2.82 - free Addon - How to work with the Bool Tool](https://www.youtube.com/watch?v=T7oU39ROzTk)
 
 # Resources
+* [Blender Export Animations to UE4 and Unity](https://www.youtube.com/watch?v=Vg1F7f4Sm18)
+* [Genshin Impact - VMD Motion file import and export to Unity from Blender](https://www.youtube.com/watch?v=0zkffR7-6gU)
+* [Genshin Impact Models in Blender](https://www.youtube.com/watch?v=H0xDkKmh79E)
+* [Genshin Impact - Shading in Blender (Texture and Shaders SOLVED)](https://www.youtube.com/watch?v=pDlWzx2PoQk)
+* [blendswap](https://blendswap.com/Wk2YLSXUMNTzxZjaIht6M7BIHI)
+* [AMAZING Shader Resources](https://www.youtube.com/watch?v=simEPA0tQoA)
 * [Blender 2.81 - 5 steps you should do before export | polishing geometry](https://www.youtube.com/watch?v=Eiq6A7cAWT4)
 * [300,000 Free 3D Models](https://sketchfab.com/blogs/community/300000-free-3d-models-available-on-sketchfab/)
 * [MMD to Blender 2.8x motion file VMD (RigidBodies setup)](https://www.youtube.com/watch?v=wtEUZtJSTKE)
 * [Blender 2.81 importing CAD/STL files look better](https://www.youtube.com/watch?v=RyaMXlLCqn4)
 * [Blender 2.8: Free Character Rig - MT-103 by Oliver Simonnet](https://www.youtube.com/watch?v=djFDZ-Cwne0)
-* [1800+ FREE ASSETS FOR BLENDER](https://www.youtube.com/watch?v=3Aw6pR60E-M&feature=share)
+* [1800+ FREE ASSETS FOR BLENDER](https://www.youtube.com/watch?v=3Aw6pR60E-M)
 * [texture haven](https://texturehaven.com/)
 * [Space Battle Tutorial](https://www.youtube.com/watch?v=t4S6xSLKHoY)
 * [40+ Awesome Free Assets](https://www.youtube.com/watch?v=smdbYHqaDO0)
-* [Blender 2.8 3D Cabinet Model Critique & Fix | How to Sell 3D Models](https://www.youtube.com/watch?v=WAaeKdveezU&feature=emb_title)
+* [Blender 2.8 3D Cabinet Model Critique & Fix | How to Sell 3D Models](https://www.youtube.com/watch?v=WAaeKdveezU)
 * [Lost blendfile found: Celestine Breakdown](https://www.youtube.com/watch?v=KaFpPyiEBNI)
 
 # Tools & Tips
+* [A Beautiful Cut - Blender Boolean](https://www.youtube.com/watch?v=Gj2ZjpiDUWY)
+* [Baking Normal maps from Multires modifier](https://www.youtube.com/watch?v=4WCuMszwM2U)
+* [TEXT & CURVES with CUSTOM BEVELS](https://www.youtube.com/watch?v=zc3k4CxomWI)
+* [2.83 - How to SEPARATE Geometry](https://www.youtube.com/watch?v=zFCZ1Ka824s)
+* [Reduce polygons using only quads](https://www.youtube.com/watch?v=ImS2cU2uOlY)
+* [5 Tips to Make Your Time In Blender Easier](https://www.youtube.com/watch?v=Xr4b6xMDK0o)
 * [Selection](https://www.youtube.com/watch?v=L1ALsDaXg9M)
 * [2.8 TOOLS edit normals for anime heads (Normal tool series)](https://www.youtube.com/watch?v=O8qhWTpPOw4)
 * [2.8 TIPS 	Top Tips in Blender You Probably Didn't Know](https://www.youtube.com/watch?v=EO-ikIsVdIo)
 * [TIPS Make Cities with Blender](https://www.youtube.com/watch?v=JjnyapZ_P-g)
 * [Array Modifier](https://www.youtube.com/watch?v=KM9wty__kyY)
 * [2.8 CONCEPT Tips for Concepting in Blender](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
-* [Daily Blender Secrets - Connected Proportional Editing](https://www.youtube.com/watch?v=rZ-2n-8vRD0&feature=emb_title)
-* [Daily Blender Secrets - Toon Outline with Inverted Hull updated](https://www.youtube.com/watch?v=913lbud30xc&feature=emb_title)
+* [Daily Blender Secrets - Connected Proportional Editing](https://www.youtube.com/watch?v=rZ-2n-8vRD0)
+* [Daily Blender Secrets - Toon Outline with Inverted Hull updated](https://www.youtube.com/watch?v=913lbud30xc)
 * [Easy Air Pressure Balloon Tutorial | Blender](https://www.youtube.com/watch?v=hYZgsH0NeC4&feature=emb_title)
 * [the Bend tool](https://www.blendernation.com/2020/03/25/blender-quick-tips-1-the-bend-tool/)
 * [Daily Blender Secrets - Select Next Active](https://www.youtube.com/watch?v=uO5-RB66tdU&feature=emb_title)
@@ -101,6 +116,12 @@
 * [5 Mistakes Every Artist Makes When Making Faces - Art Fundamentals](https://www.youtube.com/watch?v=vIKxffo7YsU)
 * [Shoutmon Digimon Fusion Modeling Timelapse](https://www.youtube.com/watch?v=Ul0Ns8aG0us)
 * [Don’t Make This Mistake When Taking a Break From Art! | Sculpting Chun Li](https://www.youtube.com/watch?v=5IBHu1GE32k)
+* [Hardsurface Sculpting Tutorial](https://www.youtube.com/watch?v=IC_bjwcptKg)
+* [Easily create a procedural escalator in Blender](https://www.youtube.com/watch?v=Arl-UGc3RTI)
+* [2.91 Booleans explained](https://www.youtube.com/watch?v=rNcTaG_sz7c)
+* [2.8 Create Realistic Grass](https://www.youtube.com/watch?v=-GAm-7_3N6g)
+* [Create 3D Terrain with Google Maps](https://www.youtube.com/watch?v=Mj7Z1P2hUWk)
+* [How to Create a Forest in Blender : Texture Painting](https://www.youtube.com/watch?v=nLp9zWw8UVo)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
@@ -169,6 +190,22 @@
 * [Blender 2.8/EEVEE - Toon Shader Tutorial - P.1 - How to Have Multiple Light Sources](https://www.youtube.com/watch?v=TpWI2rU8iF0)
 * [greasepencil lifehack](https://twitter.com/luamono/status/1239983662176841730)
 * [The BNPR Show #18: Hid the Bunnies](https://www.youtube.com/watch?v=_gZQOL2HCeE)
+* [Tutorial: Ghibli/BoTW Anime Stylized Grass in Blender wth EEVEE](https://www.youtube.com/watch?v=6hyztL8btlY)
+* [NPR PENCIL LOOK - Not only a shader](https://www.youtube.com/watch?v=_reT6PwJRkg&t=280s&ab_channel=ToniMortero)
+* [Pixelate your renders](https://www.youtube.com/watch?v=dphzvXJB9uM)
+* [2.79 ADDING CONTROLLERS ON THE FORMAT KEYS](https://www.youtube.com/watch?v=MuqJbm99wE0)
+
+## Grease Pencil
+* [2.9 import a SVG and convert it to Grease Pencil](https://www.youtube.com/watch?v=mUkZCuT9EG0)
+* [Grease Pencil Face Rig 4 - Bender | Grease Pencil Rigging](https://www.youtube.com/watch?v=AtUbR1kXOQw)
+
+## pixelart
+* [3D PixelArt Camper in Blender](https://www.youtube.com/watch?v=WE0qRRRjF-g)
+* [Making animated PIXEL ART with Blender 2.8 in 12 Minutes](https://www.youtube.com/watch?v=cLnyKRfBFsQ)
+* [Creating a Low Poly Pixel Texture 3D Asset in Blender 2.8+](https://www.youtube.com/watch?v=yh6785-ff8k)
+* [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
+* [3D to 2D pixel in-depth Blender Tutorial](https://www.youtube.com/watch?v=vIKJ1AqfI0Q)
+* [Rendering in the Pokemon 3DS Shading Style in Blender](https://www.youtube.com/watch?v=tI5mtH4mVVc)
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
@@ -194,6 +231,11 @@
 * [Motion - Broadcast Sports Bumper in Blender](https://www.youtube.com/watch?v=4Md6fMAfY7c)
 * [Keyframes | Animation in Blender 2.83](https://www.youtube.com/watch?v=nJlq3hhKsQM)
 * [Elements of Motion Graphics | EP2: Design](https://www.youtube.com/watch?v=b8fWhClnSNw)
+* [Particle system and Force Fields (Part 2) | Card Magic Animation](https://www.youtube.com/watch?v=SWtS79Jo23U)
+* [2.9 create a Looping Mograph Animation](https://www.youtube.com/watch?v=u9vMfUDeAsc)
+* [Combining 2D And 3D To Create An Animated Storyboard](https://www.youtube.com/watch?v=CIqKac_-BdI)
+* [Retarget Addon and Tutorial](https://www.youtube.com/watch?v=EG-VCMkVpxg)
+* [2.9 Easy Psychedelic Animations - Abstract Motion Graphics](https://www.youtube.com/watch?v=mbrDxrFicVc)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
@@ -202,6 +244,8 @@
 * [2.8 Rig ANYTHING with Rigify #0 - Series Intro](https://www.youtube.com/watch?v=-JSFcSxsaTs)
 * [2.83 - How To Rig A Mech Blender Step by Step](https://www.youtube.com/watch?v=hDByeNkb2pE)
 * [Advanced lego rigging tutorial in blender](https://www.youtube.com/watch?v=hIaSCV9AUvI)
+* [How to Rig a Rubber Duck in Blender](https://www.youtube.com/watch?v=zPvftMzfu-8)
+* [Luxo Jr | Pixar Lamp Rigging Tutorial](https://www.youtube.com/watch?v=M_y-zYCBk7w)
 
 ## Camera
 * [Animate Handheld Cameras in Blender](https://www.youtube.com/watch?v=w9EUFud9zGE)
@@ -224,5 +268,8 @@
 * [How to create modular roads in Blender 2.8](https://www.youtube.com/watch?v=sRbQfGl00HE)
 * [Collection Instance Blender 2.8](https://www.youtube.com/watch?v=Id9IzLV7IDg)
 * [Python Blender 2.8 Tutorial: Shortcut / Custom Keymap - bpy](https://www.youtube.com/watch?v=0xBhh47Tblc)
-* [Blender Python scripting for lazy 3D artists](https://www.youtube.com/watch?v=hj3FtJsQFbA&feature=emb_title)
+* [Blender Python scripting for lazy 3D artists](https://www.youtube.com/watch?v=hj3FtJsQFbA)
+* [Blender Procedural Nodes LEVEL 1 - FULL COURSE](https://www.youtube.com/watch?v=O3gLBhC353Y)
+* [2.9 Procedural Bricks - Blender Shader Node](https://www.youtube.com/watch?v=XW-DrBQ-u1o)
+* [Hair Particles with Instancing and add a collision object](https://www.youtube.com/watch?v=ic2ppLXS2xQ)
 
